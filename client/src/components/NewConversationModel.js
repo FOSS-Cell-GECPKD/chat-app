@@ -1,9 +1,9 @@
 import React from 'react'
 
-export default function Conversations() {
+export default function NewConversationModel() {
     return (
         <div>
-            Conversations
+            
         </div>
     )
 }
