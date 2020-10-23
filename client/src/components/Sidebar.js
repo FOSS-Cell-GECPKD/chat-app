@@ -18,7 +18,7 @@ export default function Sidebar({id}) {
         setModalOpen(false)
     }
     return (
-        <div style={{width:'250px'}} className='d-flex flex-column'>
+        <div style={{width:'250px' ,minWidth:'250px'}} className='d-flex flex-column'>
             <Tab.Container activeKey={activeKey} onSelect={setActiveKey}>
                 <Nav variant="tabs" className="Justify-content-center">
                     <Nav.Item>

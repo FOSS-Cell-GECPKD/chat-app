@@ -30,9 +30,10 @@ export default function OpenConversation() {
                             <div 
                             ref={lastMessage?setRef:null}
                             key={index}
-                            className={`my-1 d-flex flex-column ${message.fromMe?`align-self-end`:''}`}>
+                            className={`my-1 d-flex flex-column ${message.fromMe?`align-self-end`:''}`}
+                            >
                                 <div
-                                 className={`rounded px-2 py-1 ${message.fromMe?`bg-primary text-white`:`border`}`}>
+                                 className={`rounded px-2 py-1 ${message.fromMe?`bg-primary  text-white`:`border`}`} >
                                     {message.text}
                                 </div>
                                 <div className={`text-muted small ${message.fromMe?`text-right`:``} `}>
@@ -50,7 +51,7 @@ export default function OpenConversation() {
                         <Form.Control as="textarea" 
                         required value={text}
                         onChange={e=>setText(e.target.value)}
-                        style={{height:"75px" , resize :"none"}}/>
+                        style={{height:"50px" , resize :"none"}}/>
                         <InputGroup.Append>
                             <Button type="submit">Send</Button>
                         </InputGroup.Append>
