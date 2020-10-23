@@ -1,4 +1,4 @@
-#chat-app
+# chat-app
 
 [![GitHub license](https://img.shields.io/github/license/FOSS-Cell-GECPKD/chat-app?style=for-the-badge)](https://github.com/FOSS-Cell-GECPKD/chat-app.git/blob/master/LICENSE)  [![GitHub issues](https://img.shields.io/github/issues/FOSS-Cell-GECPKD/chat-app?style=for-the-badge)](https://github.com/FOSS-Cell-GECPKD/chat-app/issues) [![Join the chat at https://gitter.im/FOSS-Cell-GECPKD/chat-app](https://img.shields.io/badge/chat-on%20gitter-blue?style=for-the-badge)](https://badges.gitter.im/FOSS-Cell-GECPKD/chat-app?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 ## About
