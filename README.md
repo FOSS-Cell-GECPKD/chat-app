@@ -25,9 +25,9 @@ npm run devStart
 ```
 
 ## Instructions
--Create an id or login with your id
--Go to contacts section and add the id and name of the person you wish to chat with
--create a new conversation 
+- Create an id or login with your id
+- Go to contacts section and add the id and name of the person you wish to chat with
+- create a new conversation 
 (eventhough this app currently work only in localhost:sweat_smile:)
 
 ## Contributing to chat-app
