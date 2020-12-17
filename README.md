@@ -2,7 +2,10 @@
 
 [![GitHub license](https://img.shields.io/github/license/FOSS-Cell-GECPKD/chat-app?style=for-the-badge)](https://github.com/FOSS-Cell-GECPKD/chat-app.git/blob/master/LICENSE)  [![GitHub issues](https://img.shields.io/github/issues/FOSS-Cell-GECPKD/chat-app?style=for-the-badge)](https://github.com/FOSS-Cell-GECPKD/chat-app/issues) [![Join the chat at https://gitter.im/FOSS-Cell-GECPKD/chat-app](https://img.shields.io/badge/chat-on%20gitter-blue?style=for-the-badge)](https://badges.gitter.im/FOSS-Cell-GECPKD/chat-app?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 ## About
-This project is a simple chat-app which help to exchange informations between two or more users
+This project is a simple chat-app which help to exchange information between two or more users
+
+![Screenshot](https://raw.githubusercontent.com/FOSS-Cell-GECPKD/chat-app/master/demo.png)
+
 ## Setup
 #### Clone this repo!
 First things first. Make a local clone of this repo so you can work on it from your own computer.
