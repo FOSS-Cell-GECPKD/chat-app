@@ -4,7 +4,7 @@
 ## About
 This project is a simple chat-app which help to exchange information between two or more users
 
-![Screenshot](https://raw.githubusercontent.com/FOSS-Cell-GECPKD/chat-app/master/demo.png)
+![Screenshot](https://raw.githubusercontent.com/FOSS-Cell-GECPKD/chat-app/master/chat-app-demo.png)
 
 ## Setup
 #### Clone this repo!
