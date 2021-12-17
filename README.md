@@ -50,3 +50,5 @@ Discussions about chat-app is placed on our Gitter Chat Anybody is welcome to jo
 
 ## License
 This project is licensed under the [MIT License](LICENSE).
+
+This project was a part of FOSS OpenHack '20: https://openhack.gitbook.io/openhack-20/.
